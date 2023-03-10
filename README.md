@@ -1,18 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29)](https://git.io/typing-svg)
 
 ```txt
-$ my-life
-       ..                               renato@nunes
-       .                                ---------------
+$ my-life 
+              .  .   .
+          .                .            renato@nunes
+       .                      .         ---------------
      .                           .      Uptime: 19 anos
-                                        Linguagem de programação: Java
-           ......                       OS: Arch Linux
-          ..'',,.....                   WM: DWM
-        ..'',,,,,,;,''....  ..          Shell: Zsh
-       .........';:::;;,.....''.        Editor: Nvim
-      ...........,:llc:'...,;:c;.  .    Hobby: jogos, anotação, programação
-     .''''.....'',:oddl,...,;cdo' .     -------------------------
-     .',,'''''''',:odddl:;;codxo,..     
+   .                              .     Linguagem de programação: Java
+  .        ......                  .    OS: Arch Linux
+ .        ..'',,.....               .   WM: DWM
+ .      ..'',,,,,,;,''....  ..      .   Shell: Zsh
+.      .........';:::;;,.....''.    .   Editor: Nvim
+.     ...........,:llc:'...,;:c;.  .    Hobby: jogos, anotação, programação
+ .   .''''.....'',:oddl,...,;cdo' .     -------------------------
+   . .',,'''''''',:odddl:;;codxo,..     
  .....',;;;;;;;,,,:odxxxdoodxkko,,;'    Atualmente
  .''..',,;::::;,,,:lddxxdodxxxxoclc,.   ----------
  .'''.'',;;;:::;'',:cloooodxxxxocl:.    Cursando a Generation Brasil!
