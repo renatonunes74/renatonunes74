@@ -1,4 +1,4 @@
-```zsh
+```txt
 $ my-life
        ..                               Renato da Silva Nunes
        .                                ---------------
