@@ -9,7 +9,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Contador%20de%20Visitantes)
 
-```                          
+```python
+$ my-life
        ..                             
        .                                ---------------
      .                           .      Uptime: 19 anos
