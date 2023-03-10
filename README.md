@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Contador%de%Visitantes)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Contador%20de%20Visitantes)
