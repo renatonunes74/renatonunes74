@@ -16,10 +16,10 @@ $ my-life
  .'''.'',;;;:::;'',:cloooodxxxxocl:.    Cursando a Generation Brasil!
   .'''''',;;;;;;,;:ccldddddxxxddo:.     Aprendendo Java
    ..'..',,,;;;;,;;:::clodxxxdc;'.      
-       .'',,,;;,',;:::cclodxdl.         
-        .'',,,,,;;;::cllooddc.          
-        .'''',,,;;:ccllooodd;           
-        .,,'''',;:clllooodxx;           
+       .'',,,;;,',;:::cclodxdl.         Contatos
+        .'',,,,,;;;::cllooddc.          --------
+        .'''',,,;;:ccllooodd;           Email: renato.s.nunes74@gmail.com
+        .,,'''',;:clllooodxx;           Linkedin: Renato Nunes 
         .';;,'''',;::cldxxkk:           
         .';;;,''',:cllodxxxxc..   
 ```
