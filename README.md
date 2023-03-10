@@ -9,22 +9,26 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Contador%20de%20Visitantes)
 
-```                                
-           ......                       
-          ..'',,.....                   
-        ..'',,,,,,;,''....  ..          
-       .........';:::;;,.....''.        
-      ...........,:llc:'...,;:c;.  .    
-     .''''.....'',:oddl,...,;cdo' .     
+```                          
+       ..                             
+       .                                ---------------
+     .                           .      Uptime: 19 anos
+                                        Linguagem de programação: Java
+           ......                       OS: Arch Linux
+          ..'',,.....                   WM: DWM
+        ..'',,,,,,;,''....  ..          Shell: Zsh
+       .........';:::;;,.....''.        Editor: Nvim
+      ...........,:llc:'...,;:c;.  .    Hobby: jogos, anotação, programação
+     .''''.....'',:oddl,...,;cdo' .     -------------------------
      .',,'''''''',:odddl:;;codxo,..     
- .....',;;;;;;;,,,:odxxxdoodxkko,,;'    
- .''..',,;::::;,,,:lddxxdodxxxxoclc,.   
- .'''.'',;;;:::;'',:cloooodxxxxocl:.    
-  .'''''',;;;;;;,;:ccldddddxxxddo:.     
+ .....',;;;;;;;,,,:odxxxdoodxkko,,;'    Atualmente
+ .''..',,;::::;,,,:lddxxdodxxxxoclc,.   ----------
+ .'''.'',;;;:::;'',:cloooodxxxxocl:.    Cursando a Generation Brasil!
+  .'''''',;;;;;;,;:ccldddddxxxddo:.     Aprendendo Java
    ..'..',,,;;;;,;;:::clodxxxdc;'.      
        .'',,,;;,',;:::cclodxdl.         
         .'',,,,,;;;::cllooddc.          
         .'''',,,;;:ccllooodd;           
         .,,'''',;:clllooodxx;           
         .';;,'''',;::cldxxkk:           
-        .';;;,''',:cllodxxxxc..         ```
+        .';;;,''',:cllodxxxxc..   
