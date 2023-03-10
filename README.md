@@ -8,3 +8,28 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Contador%20de%20Visitantes)
+
+
+
+      ..                             
+       .                                
+     .                           .      
+                                        
+           ......                       
+          ..'',,.....                   
+        ..'',,,,,,;,''....  ..          
+       .........';:::;;,.....''.        
+      ...........,:llc:'...,;:c;.  .    
+     .''''.....'',:oddl,...,;cdo' .     
+     .',,'''''''',:odddl:;;codxo,..     
+ .....',;;;;;;;,,,:odxxxdoodxkko,,;'    
+ .''..',,;::::;,,,:lddxxdodxxxxoclc,.   
+ .'''.'',;;;:::;'',:cloooodxxxxocl:.    
+  .'''''',;;;;;;,;:ccldddddxxxddo:.     
+   ..'..',,,;;;;,;;:::clodxxxdc;'.      
+       .'',,,;;,',;:::cclodxdl.         
+        .'',,,,,;;;::cllooddc.          
+        .'''',,,;;:ccllooodd;           
+        .,,'''',;:clllooodxx;           
+        .';;,'''',;::cldxxkk:           
+        .';;;,''',:cllodxxxxc..         
