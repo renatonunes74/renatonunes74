@@ -2,7 +2,7 @@
 
 ```txt
 $ my-life 
-              .  .   .
+              .     .  .
           .                .            renato@nunes
        .                      .         ---------------
      .                           .      Uptime: 19 anos
