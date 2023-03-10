@@ -1,6 +1,6 @@
-```shell
+```zsh
 $ my-life
-       ..                             
+       ..                               Renato da Silva Nunes
        .                                ---------------
      .                           .      Uptime: 19 anos
                                         Linguagem de programação: Java
