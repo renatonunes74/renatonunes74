@@ -1,15 +1,17 @@
 ![Banner](https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29)
+
+<center><img src="https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Visitantes"></center>
+
 <div style="display:flex;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=renatonunes74&cc=000&tc=fff&ic=fff&bc=000" alt="Typing SVG" />
-  <img src="https://streak-stats.demolab.com?user=renatonunes74&theme=highcontrast&hide_border=true&locale=pt_BR&mode=weekly&ring=EBEBEB&fire=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=EBEBEB">
+  <img src="https://github-stats-alpha.vercel.app/api?username=renatonunes74&cc=000&tc=fff&ic=fff&bc=000" width=50%>
+  <img src="https://streak-stats.demolab.com?user=renatonunes74&theme=highcontrast&hide_border=true&locale=pt_BR&mode=weekly&ring=EBEBEB&fire=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=EBEBEB" width=49%>
 </div>
 
 ![grafico de contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=renatonunes74&theme=high-contrast&hide_border=true&hide_title=true&height=300)
 
 <div style="display:flex;">
-  <img src="https://github-profile-trophy.vercel.app/?username=renatonunes74&theme=matrix&margin-w=2&margin-h=2">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&locale=pt-br&langs_count=32&card_width=100%&include_all_commits=true&layout=compact&theme=chartreuse-dark">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Visitantes">
+  <img src="https://github-profile-trophy.vercel.app/?username=renatonunes74&theme=matrix&column=3" width=50%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&locale=pt-br&langs_count=32&card_width=100%&include_all_commits=true&layout=compact&theme=chartreuse-dark" width=49%>
 </div>
 
 | Aprendendo | Habilidades | Curiosidades | Redes Socais |
