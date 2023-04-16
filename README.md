@@ -1,4 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29)](https://git.io/typing-svg)
+![Banner](https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29)
+<div style="display:flex;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=renatonunes74&cc=000&tc=fff&ic=fff&bc=000" alt="Typing SVG" />
+  <img src="https://streak-stats.demolab.com?user=renatonunes74&theme=highcontrast&hide_border=true&locale=pt_BR&mode=weekly&ring=EBEBEB&fire=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=EBEBEB">
+</div>
+
+![grafico de contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=renatonunes74&theme=high-contrast&hide_border=true&hide_title=true&height=300)
+
+<div style="display:flex;">
+  <img src="https://github-profile-trophy.vercel.app/?username=renatonunes74&theme=matrix&margin-w=2&margin-h=2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&locale=pt-br&langs_count=32&card_width=100%&include_all_commits=true&layout=compact&theme=chartreuse-dark">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Visitantes">
+</div>
+
+| Aprendendo | Habilidades | Curiosidades | Redes Socais |
+| - | - | - | - |
+| ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Trello Badge](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PlantUML Badge](https://custom-icon-badges.demolab.com/badge/plantuml-%2300f.svg?style=for-the-badge&logo=plantuml1&logoColor=white) ![GraphViz Badge](https://custom-icon-badges.demolab.com/badge/graphviz-%23026AA7.svg?style=for-the-badge) | ![](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-121011?style=for-the-badge&logo=GNU%20Bash&logoColor=white)|![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|
 
 ```txt
 $ my-life 
@@ -17,7 +33,7 @@ $ my-life
  .....',;;;;;;;,,,:odxxxdoodxkko,,;'    Atualmente
  .''..',,;::::;,,,:lddxxdodxxxxoclc,.   ----------
  .'''.'',;;;:::;'',:cloooodxxxxocl:.    Cursando a Generation Brasil!
-  .'''''',;;;;;;,;:ccldddddxxxddo:.     Aprendendo Java
+  .'''''',;;;;;;,;:ccldddddxxxddo:.     Aprendendo MySQL
    ..'..',,,;;;;,;;:::clodxxxdc;'.      
        .'',,,;;,',;:::cclodxdl.         Contatos
         .'',,,,,;;;::cllooddc.          --------
@@ -26,10 +42,4 @@ $ my-life
         .';;,'''',;::cldxxkk:           
         .';;;,''',:cllodxxxxc..   
 ```
-
-[![Renato Nunes](https://github-readme-stats.vercel.app/api?username=renatonunes74&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Renato Nunes](https://github-readme-stats.vercel.app/api?username=renatonunes74&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Visitantes)
+<img src="https://raw.githubusercontent.com/renatonunes74/renatonunes74/main/Bottom.svg">
