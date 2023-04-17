@@ -1,6 +1,6 @@
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29">
-<img src="https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&&left_color=black&right_color=black&left_text=V I S I T A N T E S"> <img src="https://img.shields.io/badge/open%20to%20work!-FCC624?style=for-the-badge&logo=xrp&logoColor=black">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Terminus&color=FCC624&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29">
+<img src="https://api.visitorbadge.io/api/visitors?path=renatonunes74&label=V%20I%20S%20I%20T%20A%20N%20T%20E%20S&labelColor=%23ffffff&countColor=%23000000"> <img src="https://img.shields.io/badge/open%20to%20work!-FCC624?style=for-the-badge&logo=xrp&logoColor=black">
 </div>
 
 <div style="display:flex;">
