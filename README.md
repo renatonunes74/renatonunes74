@@ -1,6 +1,7 @@
-![Banner](https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29)
-
-<center><img src="https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&left_text=Visitantes"></center>
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Terminus&color=4b8dda&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29">
+<img src="https://visitor-badge.glitch.me/badge?page_id=renatonunes74.visitor-badge&&left_color=black&right_color=black&left_text=V I S I T A N T E S"> <img src="https://img.shields.io/badge/open%20to%20work!-FCC624?style=for-the-badge&logo=xrp&logoColor=black">
+</div>
 
 <div style="display:flex;">
   <img src="https://github-stats-alpha.vercel.app/api?username=renatonunes74&cc=000&tc=fff&ic=fff&bc=000" width=50%>
