@@ -1,10 +1,10 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Terminus&color=FCC624&size=25&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Renato+Nunes;Tenho+19+anos;Atualmente+cursando+a+Generation+Brasil!+:%29">
 <img src="https://api.visitorbadge.io/api/visitors?path=renatonunes74&label=V%20I%20S%20I%20T%20A%20N%20T%20E%20S&labelColor=%23ffffff&countColor=%23000000"> <img src="https://img.shields.io/badge/open%20to%20work!-FCC624?style=for-the-badge&logo=xrp&logoColor=black"><br>
-<a href="mailto:renato.s.nunes74@gmail.com" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/renato-nunes" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.com/users/1069952065410965524" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://renatonunes74.github.io" target="_blank"><img src="https://img.shields.io/badge/Pessoal-%23121011.svg?label=Blog&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/renato-nunes"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:renato.s.nunes74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.com/users/1069952065410965524"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://renatonunes74.github.io"><img src="https://img.shields.io/badge/Pessoal-%23121011.svg?label=Blog&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <div style="display:flex;">
