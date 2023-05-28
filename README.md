@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=renatonunes74&theme=highcontrast&hide_border=true&locale=pt_BR&mode=weekly&ring=EBEBEB&fire=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=EBEBEB" width=49%>
 </div>
 
-![grafico de contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=renatonunes74&theme=high-contrast&hide_border=true&hide_title=true&height=300)
+![grafico de contribuição](https://github-readme-activity-graph.vercel.app/graph?username=renatonunes74&theme=high-contrast&hide_border=true&hide_title=true&height=300)
 
 <div style="display:flex;">
   <img src="https://github-profile-trophy.vercel.app/?username=renatonunes74&theme=matrix&column=3" width=50%>
