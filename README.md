@@ -39,8 +39,8 @@ $ my-life
    . .',,'''''''',:odddl:;;codxo,..     
  .....',;;;;;;;,,,:odxxxdoodxkko,,;'    Atualmente
  .''..',,;::::;,,,:lddxxdodxxxxoclc,.   ----------
- .'''.'',;;;:::;'',:cloooodxxxxocl:.    Cursando a Generation Brasil!
-  .'''''',;;;;;;,;:ccldddddxxxddo:.     Aprendendo MySQL
+ .'''.'',;;;:::;'',:cloooodxxxxocl:.    Desenvolvedor Java Full Stack
+  .'''''',;;;;;;,;:ccldddddxxxddo:.     Formado na Generation Brasil
    ..'..',,,;;;;,;;:::clodxxxdc;'.      
        .'',,,;;,',;:::cclodxdl.         Contatos
         .'',,,,,;;;::cllooddc.          --------
