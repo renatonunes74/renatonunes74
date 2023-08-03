@@ -12,16 +12,12 @@
   <img src="https://streak-stats.demolab.com?user=renatonunes74&theme=highcontrast&hide_border=true&locale=pt_BR&mode=weekly&ring=EBEBEB&fire=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=EBEBEB" width=49%>
 </div>
 
-![grafico de contribuição](https://github-readme-activity-graph.vercel.app/graph?username=renatonunes74&theme=high-contrast&hide_border=true&hide_title=true&height=300)
+![Contribuição](https://ssr-contributions-svg.vercel.app/_/renatonunes74?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=NaN&animation_frequency=NaN&weeks=50&theme=native&dark=true&format=svg)
 
 <div style="display:flex;">
   <img src="https://github-profile-trophy.vercel.app/?username=renatonunes74&theme=matrix&column=3" width=50%>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes74&locale=pt-br&langs_count=32&card_width=100%&include_all_commits=true&layout=compact&theme=chartreuse-dark" width=49%>
 </div>
-
-| Aprendendo | Habilidades | Curiosidades |
-| - | - | - |
-| ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Trello Badge](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PlantUML Badge](https://custom-icon-badges.demolab.com/badge/plantuml-%2300f.svg?style=for-the-badge&logo=plantuml1&logoColor=white) ![GraphViz Badge](https://custom-icon-badges.demolab.com/badge/graphviz-%23026AA7.svg?style=for-the-badge) | ![](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![](https://img.shields.io/badge/GNU%20Bash-121011?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ```txt
 $ my-life 
@@ -30,7 +26,7 @@ $ my-life
        .                      .         ---------------
      .                           .      Uptime: 19 anos
    .                              .     Linguagem de programação: Java
-  .        ......                  .    OS: Arch Linux
+  .        ......                  .    OS: NixOS
  .        ..'',,.....               .   WM: DWM
  .      ..'',,,,,,;,''....  ..      .   Shell: Zsh
 .      .........';:::;;,.....''.    .   Editor: Nvim
@@ -45,7 +41,7 @@ $ my-life
        .'',,,;;,',;:::cclodxdl.         Contatos
         .'',,,,,;;;::cllooddc.          --------
         .'''',,,;;:ccllooodd;           Email: renato.s.nunes74@gmail.com
-        .,,'''',;:clllooodxx;           Linkedin: Renato Nunes 
+        .,,'''',;:clllooodxx;           Linkedin: https://www.linkedin.com/in/renato-nunes/ 
         .';;,'''',;::cldxxkk:           
         .';;;,''',:cllodxxxxc..   
 ```
